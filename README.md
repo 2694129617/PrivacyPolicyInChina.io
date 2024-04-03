@@ -1,281 +1,70 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>隐私政策</title>
-    <style>
-        /* 样式表可以在这里添加，以美化隐私政策的显示 */
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            line-height: 1.5;
-        }
-        /* 更多样式... */
-    </style>
-</head>
-<body>
-    <h1>隐私政策</h1>
-    <h2>个人信息保护政策</h2>
-    <p>更新日期：2023年11月20日</p>
-    <p>生效日期：2021年7月2日</p>
-    
-    <!-- 隐私政策正文开始 -->
-    <h3>【前言】</h3>
-    <p>欢迎您选择上海之能文化科技有限公司提供的“坦克王”游戏！在使用本游戏服务时，我们可能会收集和使用您的相关个人信息。本政策旨在向您说明我们在收集和使用您相关个人信息时的处理规则等相关事宜，以便更好地保障您的权益。</p>
-    
-	<p>有关个人信息保护的联系方式为：2694129617@qq.com</p>
-	<p>本政策将帮助您了解以下内容：</p>
-
-·  <p>我们如何收集和使用个人信息</p>
-
-·  <p>我们如何委托处理、共享、转让、公开披露您的个人信息</p>
-
-·  <p>我们如何存储和保护个人信息</p>
-
-·  <p>我们如何管理您的个人信息</p>
-
-·  <p>我们如何处理未成年人的个人信息</p>
-
-·  <p>修订和通知</p>
-
-·  <p>如何联系我们</p>
-    <!-- 以此类推，继续添加隐私政策的其他部分 -->
-    
-    <h3>一、我们如何收集和使用个人信息</h3>
-    <p>我们收集您的个人信息主要是为了您和其他用户能够更容易和更满意地使用本游戏服务。</p>
-     <h4>(一)我们将通过以下途径收集和获得您的个人信息：</h4>
-	 <p>1. 您提供的信息。包括：</p>
-	  <p> （1）您在注册本游戏服务的帐号或使用本游戏服务时，向我们提供的信息； </p>
-	  <p> （2）您通过本游戏服务向第三方提供的共享信息，以及您使用本游戏服务时所存储的信息。 </p>
-     <p> 2. 第三方共享的您的信息。亦即第三方使用本游戏服务时所提供有关您的共享信息。 </p>
-     <p> 3. 我们获取的您的信息。您在使用本游戏服务时，我们收集、汇总、记录的信息，例如位置信息、设备信息。 </p>
-	  <h4>(二) 我们会出于以下目的，收集和使用您以下类型的个人信息：</h4> 
-	   <p> 1. 帮助您完成注册及登录 </p>
-	   <p> 1. 为便于我们为您提供持续稳定的服务并保障您使用本游戏服务的安全性，我们需要您提供设备号进行快捷登录。您使用
-             设备号进行登录后，才能在服务端被其他玩家发觉和一起游戏。我们可能会视本游戏产品的具体情况为您提供相关权限，以便您可以对是否展示前述相关信息进行相应设置。	   </p>
-		<p> 2. 维护基本功能的正常运行 </p> 
-		<p> 为保障您正常使用我们的服务，维护游戏基础功能的正常运行，优化游戏产品性能，提升您的游戏体验并保障您的账号安全，我们可能会直接或者间接地收集、存储关于您使用的服务以及使用方式的信息并将这些信息进行关联，这些信息包括：
-
-（1） 设备信息：我们可能会接收并记录您所使用的设备相关信息。包括：设备所在位置相关信息（IP地址和WLAN接入点）。为了收集上述基本的个人设备信息，我们将会申请访问您的设备信息的权限，我们收集这些信息是为了实现安全目的，防范恶意注册，进行玩家登陆保护。如您拒绝提供上述权限将可能导致您无法使用本游戏服务。
-
-（2） 日志信息：当您使用我们的服务时，我们可能会自动收集您对我们服务的详细使用情况，作为有关网络日志保存。包括:您的游戏日志信息（登录日志和聊天日志），以便您能够在客户端查看您的游戏历史记录，同时用于游戏运营统计分析、客服投诉处理及其他游戏安全分析，并为提升您的游戏体验，我们可能把前述信息同步至该游戏后续版本或您正在使用的我们提供的其他产品中。
-
-请注意，单独的设备信息、日志信息是无法识别特定自然人身份的信息。如果我们将这类非个人信息与其他信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理。这些信息在结合使用期间，将作为您的个人信息按照本政策处理与保护。
-
-3. 为您提供客服或其他用户响应功能
-
-当您联系我们的客服或使用其他用户响应功能时（例如提出个人信息保护投诉或建议、其他客户投诉和需求），我们不会存储您的联系方式（您与我们联系时使用的或您向我们主动提供的其他联系方式）、您与我们的通信/通话记录和内容、与您需求相关联的其他必要信息。 </p> 
- <p> 4. 您理解并同意，部分单项服务可能需要您在您的设备中开启特定的访问权限，以实现这些权限所涉及信息的收集和使用。包括： </p>
-  <p> （1） 在您开启存储权限后，您允许我们读取/写入手机内部存储权限、读取/写入SD卡内容权限、修改/删除SD卡内容权限，以便使您可以下载并保存内容，或者通过缓存来实现相应服务等功能；  </p>
-  <p> （2） 您开启网络相关权限（包括查看网络连接、查看WLAN连接、连接WLAN网络和断开连接）后，可以联网使用本游戏服务，否则您只能单机使用本游戏服务，无法下载其他游戏关卡，也无法在游戏中与其他玩家进行互动； </p>
-  <p> （3） 您开启照片及文件访问权限，系本游戏使用的第三方SDK中默认所需权限，您可在相关设置中关闭，关闭后不会影响本游戏正常使用； </p>
-  <p> （4） 蓝牙相关权限及检索正在运行的应用权限，关闭后不会影响本游戏正常使用。 </p>
-  <h4> 5. 征得授权同意的例外 </h4>
-  <p> 根据相关法律法规规定，以下情形中收集您的信息无需征得您的授权同意： </p>
-  <p> （1） 与国家安全、国防安全直接相关的； </p>
-  <p> （2） 与公共安全、公共卫生、重大公共利益直接相关的； </p>
-  <p> （3） 与刑事侦查、起诉、审判和判决执行等直接相关的； </p>
-  <p> （4） 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的； </p>
-  <p> （5） 所收集的个人信息是您自行向社会公众公开的； </p>
-  <p> （6） 根据您的要求签订和履行合同所必需的； </p>
-  <p> （7） 从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道； </p>
-  <p> （8） 维护网易服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障； </p>
-  <p> （9） 开展合法的新闻报道所必需的； </p>
-  <p> （10） 出于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的信息进行去标识化处理的；</p>
-  <p> （11） 法律法规规定的其他情形。</p>
-   <h4> 二、 我们如何共享、转让、公开披露您的个人信息</h4>
-   <h4> (一) 委托处理</h4>
-    <p> 本业务功能中某些具体的模块或功能由外部供应商提供。对我们委托处理个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的要求、本政策以及其他任何相关的保密和安全措施来处理个人信息。</p>
-     <h4> (二) 共享</h4>
-	  <p> 我们非常重视保护您的个人信息，我们不会与本游戏服务提供者以外的公司、组织和个人共享您的个人信息，但以下情况除外：
-
-1. 在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。
-
-2. 在法定情形下的共享：我们可能会根据法律法规规定、诉讼争议解决需要，或按行政、司法机关依法提出的要求，对外共享您的个人信息。
-
-3. 与关联方的必要共享：为便于我们基于统一的帐号体系向您提供一致化服务以及便于您进行统一管理、个性化推荐、保障系统和帐号安全等，您的个人信息可能会在我们和我们的关联方之间进行必要共享。我们只会共享必要的个人信息，如果我们共享您的个人敏感信息或关联公司改变个人信息的使用及处理目的，将再次征求您的授权同意。
-
-4. 与第三方合作伙伴共享。
-
-仅为实现外部处理的目的，我们可能会与第三方合作伙伴（第三方服务供应商、承包商、代理、广告合作伙伴、应用开发者等，例如，代表我们发出电子邮件或推送通知的通讯服务提供商）共享您的个人信息，让他们按照我们的说明、本政策以及其他相关的保密和安全措施来为我们处理上述信息，并用于以下用途：
-
-（1） 向您提供我们的服务；
-
-（2） 实现“我们如何收集和使用个人信息”部分所述目的；
-
-（3） 履行我们在用户协议或本政策中的义务和行使我们的权利。
-
-如我们与第三方合作伙伴共享您的信息，我们将会采用加密、匿名化处理等手段保障您的信息安全。</p>
-
-<h4> (三) 转让</h4>
- <p> 1. 随着我们业务的持续发展，我们有可能进行合并、收购、资产转让或类似的交易，而您的信息有可能作为此类交易的一部分而被转移。我们会要求新的持有您个人信息的公司、组织继续受本政策的约束，否则，我们将要求该公司、组织重新向您征求授权同意。
-
-2. 在获得您的明确同意后，我们会向第三方转让您的个人信息。</p>
-<h4> (四) 公开披露</h4>
-<p> 我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会披露您的个人信息：
-
-1. 根据您的需求，在您明确同意的披露方式下披露您所指定的信息；
-
-2. 根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您信息的情况下，我们可能会依据所要求的信息类型和披露方式披露您的信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求接收方必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。 </p>
-  
-<h4> (五) 共享、转让、披露信息时事先征得授权同意的例外</h4>
-<p>以下情形中，共享、转让、披露您的信息无需事先征得您的授权同意：
-
-1. 与国家安全、国防安全直接相关的；
-
-2. 与公共安全、公共卫生、重大公共利益直接相关的；
-
-3. 与刑事侦查、起诉、审判和判决执行等司法或行政执法直接相关的；
-
-4. 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
-
-5. 您自行向社会公众公开的信息；
-
-6. 从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道；
-
-7. 与我们履行法律法规规定的义务相关的。
-
-根据法律规定，共享、转让、披露经去标识化处理的个人信息，且确保数据接收方无法复原并重新识别信息主体的，不属于个人信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。</p>
-<h3>三、 我们如何存储和保护个人信息</h3>
-<h4>(一) 个人信息的存储</h4>
-<p>除法律法规或监管部门另有规定外，我们仅在法律规定范围内最短期限内存储您的个人信息。如我们终止服务或运营，我们将及时停止继续收集您个人信息的活动，同时会遵守相关法律法规要求提前向您通知，并在终止服务或运营后对您的个人信息进行删除或匿名化处理，但法律法规或监管部门另有规定的除外。
-
-我们会按照法律法规规定，将中华人民共和国境内运营中收集和产生的用户个人信息存储于中国境内。
-
-当我们的产品或服务发生停止运营的情况时，我们将根据相关法律法规规定进行公告通知，并依法保障您的合法权益。</p>
-<h4>(二) 个人信息的保护</h4>
-<p>我们收集的个人信息均存储于腾讯云服务器上，腾讯云使用各种安全技术以保障信息的安全。
-
-1. 腾讯云通过服务器多备份、密码加密等安全措施，防止信息泄露、毁损、丢失。
-
-2. 腾讯云建立严格的管理制度和流程以保障信息的安全。例如，腾讯云严格限制访问信息的人员范围，并进行审计，要求他们遵守保密义务。
-
-3. 腾讯云重视信息安全合规工作，并通过众多国际和国内的安全认证，如 ISO 27018 公有云个人信息保护认证、网络安全等级保护认证、ISO 27001 信息安全管理体系认证等，以业界先进的解决方案充分保障您的信息安全。
-
-4. 我们会采取合理可行的措施，尽力避免收集无关的个人信息。我们只会在达成本政策所述目的所需的期限内保留您的个人信息，除非需要延长保留期或受到法律的允许。
-
-5. 互联网并非绝对安全的环境，而且电子邮件、即时通讯、社交软件或其他服务软件等与其他用户的交流方式无法确定是否完全加密，我们建议您使用此类工具时请使用复杂密码，并注意保护您的信息安全。
-
-6. 互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的个人信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致个人信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
-
-7. 您使用本游戏服务时所用的系统和通讯网络，或硬件设备等本产品均无法控制，请您了解并注意保护您的个人信息安全。
-
-8. 请注意，您在使用本游戏服务时自愿共享甚至公开分享的信息，可能会涉及您或他人的个人信息甚至个人敏感信息，如您在评价时选择上传包含个人信息的图片。请您更加谨慎地考虑，是否在使用我们的服务时共享甚至公开分享相关信息。
-
-9. 请使用复杂密码，协助我们保证您的账号安全。我们将尽力保障您发送给我们的任何信息的安全性。如果我们的物理、技术或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
-
-10. 若发生个人信息泄露等安全事件，腾讯云会启动应急预案，阻止安全事件扩大，按照《国家网络安全事件应急预案》等有关规定及时上报，并以发送邮件、推送通知、公告等形式告知您相关情况，并向您给出安全建议。
-
-（腾讯云隐私政策参考链接：https://cloud.tencent.com/document/product/301/11470）</p>
-<h3>四、 您如何管理您的个人信息</h3>
-<h4>(一) 访问您的个人信息</h4>
-<p>1. 您有权访问您的个人信息，法律法规规定的例外情况除外。您可以通过以下方式自行访问您的个人信息：
-
-账户信息——如果您希望访问您的账户中的个人基本资料信息，您可以通过登录您的账号后，在主菜单中点击玩家图标执行此类操作。
-
-2. 如果您无法通过上述路径访问该等个人信息，您可以随时通过我们的客服与我们取得联系。我们将在7天内回复您的访问请求。
-
-3. 对于您在使用我们的产品或服务过程中产生的其他个人信息，我们将根据本条“第（七）款响应您的上述请求”中的相关安排向您提供。</p>
-<h4>(二) 更正或补充您的个人信息</h4>
-<p>当您发现我们处理的关于您的个人信息有错误，或您希望更改或补充您的个人信息时，您可以进入用户界面后直接填写昵称或点击当前图标进行更换，或者通过“（一）访问您的个人信息”中列明的方式提出更正或补充申请。</p>
-<h4>(三) 删除您的个人信息</h4>
-<p>1. 在以下情形中，您可以向我们提出删除个人信息的请求：
-
-（1） 如果我们处理个人信息的行为违反法律法规；
-
-（2） 如果我们收集、使用您的个人信息，却未征得您的明确同意；
-
-（3） 如果我们处理个人信息的行为严重违反了与您的约定；
-
-（4） 如果您不再使用我们的产品或服务，或您主动注销了账号；
-
-（5） 如果我们永久不再为您提供产品或服务。
-
-2. 若我们决定响应您的删除请求，我们还将同时尽可能通知从我们处获得您的个人信息的主体，要求其及时删除，除非法律法规另有规定，或这些主体获得您的独立授权。
-
-3. 当您从我们的服务中删除信息后，我们可能不会立即从备份系统中删除相应的信息，但会在备份更新时删除这些信息。</p>
-<h4>(四) 改变您授权同意的范围</h4>
-<p>每个业务功能需要一些基本的个人信息才能得以完成（见本隐私权政策“第一部分”）。除此之外，您可以通过解除绑定、修改个人设置、删除相关信息等方式撤回部分授权，也可以通过关闭功能的方式撤销部分授权。
-
-当您收回同意后，我们将不再处理相应的个人信息。但您收回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。</p>
-<h4>(五) 个人信息主体注销账户</h4>
-<p>1. 您可以通过本政策第七条中列明的联系方式来向我们提出注销账号需求，我们将在7天内回复您的请求。但也请您理解，我们可能会因为履行法律法规义务或者我们提供服务必要性的原因无法完全满足您的请求。
-
-2. 在您主动注销账户之后，我们将停止为您提供产品或服务，根据适用法律的要求删除您的个人信息，或使其匿名化处理。</p>
-<h4>(六) 
-约束信息系统自动决策
-</h4>
-<p>在某些业务功能中，我们可能仅依据信息系统、算法等在内的非人工自动决策机制做出决定。如果这些决定显著影响您的合法权益，您有权要求我们做出解释，我们也将在不侵害本产品商业秘密或其他用户权益、社会公共利益的前提下提供申诉方法。</p>
-<h4>(七) 
-响应您的上述请求
-</h4>
-<p>1. 我们将在7天内做出答复。如您不满意，还可以通过本政策第七条载明的客服联系方式发起投诉。
-
-2. 在以下情形中，按照法律法规要求，我们将无法响应您的请求：
-
-（1） 与国家安全、国防安全有关的；
-
-（2） 与公共安全、公共卫生、重大公共利益有关的；
-
-（3） 与犯罪侦查、起诉、审判和执行判决等有关的；
-
-（4） 有充分证据表明个人信息主体存在主观恶意或滥用权利的；
-
-（5） 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；
-
-（6） 涉及商业秘密的。</p>
-<h4>五、 
-我们如何处理未成年人的个人信息
-</h4>
-<p1. 如果没有父母或监护人的同意，未成年人不得创建自己的用户账户。如您为未成年人的，建议您请您的父母或监护人仔细阅读本政策，并在征得您的父母或监护人同意的前提下使用我们的服务或向我们提供信息。
-
-2. 对于经父母或监护人同意使用我们的产品或服务而收集未成年人个人信息的情况，我们只会在法律法规允许、父母或监护人明确同意或者保护未成年人所必要的情况下使用、共享、转让或披露此信息。
-
-3. 对于未满14周岁的未成年人信息保护政策，请具体参见《儿童个人信息保护政策》。</p>
-<h4>六、 
-修订和通知
-</h4>
-<p>为了给您提供更好的服务，我们可能会根据本游戏服务的更新情况及法律法规的相关要求适时修改本政策的条款，该等修改构成本政策的一部分。我们会在本页面上公布对本政策所作的任何变更。对于重大变更，我们还会提供更为显著的通知（包括网站公告、推送通知、弹窗提示或其他方式），本政策所指的重大变更包括但不限于：
-
-1. 我们的服务模式发生重大变化。如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；
-
-2. 我们在所有权结构方面发生重大变化。如业务调整、破产并购等引起的所有者变更等；
-
-3. 个人信息共享、转让或公开披露的主要对象发生重大变化；
-
-4. 您参与个人信息处理方面的权利及其行使方式发生重大变化；
-
-5. 我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生重大变化；
-
-6. 其他重要的或可能严重影响您的个人权益的情况发生。
-
-您如果不同意该等变更，可以选择停止使用本游戏服务；如您仍然继续使用本游戏服务的，即表示您已充分阅读、理解并同意受经修订的本政策的约束。
-
-我们鼓励您在每次使用本游戏服务时都查阅我们的隐私政策。</p>
-<h4>七,如何联系我们</h4>
-<p>我们将按照本政策保护您的个人信息。如您有关于网络信息安全的投诉和举报，或您对本政策、隐私措施、您的信息的相关事宜有任何问题、意见或建议，请通过以下方式与我们联系：电子邮箱：2694129617@qq.com。
-
-一般情况下，我们将在收到您的问题、意见或建议后的7日内予以回复。如您不满意我们的回复，还可以向消费者权益保护部门投诉或向有管辖权的法院提起诉讼。</p>
-
-
-  <!-- 继续添加每个部分的详细内容 -->
-    
-    <!-- 隐私政策正文结束 -->
-
-    <!-- 联系方式可以作为一个独立的段落 -->
-    <h3>有关个人信息保护的联系方式</h3>
-    <p>2694129617@qq.com</p>
-
-    <!-- 页脚信息 -->
-    <footer>
-        <p>© 2023 Tom. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+<!DOCTYPE  html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh" lang="zh"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>隐私链接</title><meta name="author" content="JTGC"/><style type="text/css"> * {margin:0; padding:0; text-indent:0; }
+ .s1 { color: black; font-family:宋体; font-style: normal; font-weight: normal; text-decoration: none; font-size: 16pt; }
+ p { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; margin:0pt; }
+ .h1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s2 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s3 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s4 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: bold; text-decoration: none; font-size: 10pt; }
+ .s5 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 10pt; }
+ .a { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ .s6 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s7 { color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s9 { color: #00F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ .s10 { color: #00F; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: underline; font-size: 12pt; }
+ li {display: block; }
+ #l1 {padding-left: 0pt;counter-reset: c1 1; }
+ #l1> li>*:first-child:before {counter-increment: c1; content: counter(c1, decimal)". "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
+ #l1> li:first-child>*:first-child:before {counter-increment: c1 0;  }
+ li {display: block; }
+ #l2 {padding-left: 0pt;counter-reset: d1 1; }
+ #l2> li>*:first-child:before {counter-increment: d1; content: counter(d1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l2> li:first-child>*:first-child:before {counter-increment: d1 0;  }
+ li {display: block; }
+ #l3 {padding-left: 0pt;counter-reset: e1 1; }
+ #l3> li>*:first-child:before {counter-increment: e1; content: counter(e1, decimal)". "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
+ #l3> li:first-child>*:first-child:before {counter-increment: e1 0;  }
+ #l4 {padding-left: 0pt;counter-reset: e2 1; }
+ #l4> li>*:first-child:before {counter-increment: e2; content: "("counter(e2, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l4> li:first-child>*:first-child:before {counter-increment: e2 0;  }
+ li {display: block; }
+ #l5 {padding-left: 0pt;counter-reset: f1 1; }
+ #l5> li>*:first-child:before {counter-increment: f1; content: counter(f1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ #l5> li:first-child>*:first-child:before {counter-increment: f1 0;  }
+ #l6 {padding-left: 0pt;counter-reset: f2 1; }
+ #l6> li>*:first-child:before {counter-increment: f2; content: "("counter(f2, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l6> li:first-child>*:first-child:before {counter-increment: f2 0;  }
+ li {display: block; }
+ #l7 {padding-left: 0pt;counter-reset: g1 1; }
+ #l7> li>*:first-child:before {counter-increment: g1; content: counter(g1, decimal)". "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
+ #l7> li:first-child>*:first-child:before {counter-increment: g1 0;  }
+ #l8 {padding-left: 0pt;counter-reset: g2 1; }
+ #l8> li>*:first-child:before {counter-increment: g2; content: "（"counter(g2, decimal)"） "; color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }
+ #l8> li:first-child>*:first-child:before {counter-increment: g2 0;  }
+ li {display: block; }
+ #l9 {padding-left: 0pt;counter-reset: h1 1; }
+ #l9> li>*:first-child:before {counter-increment: h1; content: counter(h1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l9> li:first-child>*:first-child:before {counter-increment: h1 0;  }
+ #l10 {padding-left: 0pt;counter-reset: h2 1; }
+ #l10> li>*:first-child:before {counter-increment: h2; content: "("counter(h2, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l10> li:first-child>*:first-child:before {counter-increment: h2 0;  }
+ #l11 {padding-left: 0pt;counter-reset: h2 1; }
+ #l11> li>*:first-child:before {counter-increment: h2; content: "("counter(h2, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l11> li:first-child>*:first-child:before {counter-increment: h2 0;  }
+ li {display: block; }
+ #l12 {padding-left: 0pt;counter-reset: i1 1; }
+ #l12> li>*:first-child:before {counter-increment: i1; content: counter(i1, decimal)". "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }
+ #l12> li:first-child>*:first-child:before {counter-increment: i1 0;  }
+ li {display: block; }
+ #l13 {padding-left: 0pt;counter-reset: j1 1; }
+ #l13> li>*:first-child:before {counter-increment: j1; content: counter(j1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l13> li:first-child>*:first-child:before {counter-increment: j1 0;  }
+ #l14 {padding-left: 0pt;counter-reset: k1 1; }
+ #l14> li>*:first-child:before {counter-increment: k1; content: "("counter(k1, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l14> li:first-child>*:first-child:before {counter-increment: k1 0;  }
+ li {display: block; }
+ #l15 {padding-left: 0pt;counter-reset: l1 1; }
+ #l15> li>*:first-child:before {counter-increment: l1; content: "("counter(l1, decimal)") "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }
+ #l15> li:first-child>*:first-child:before {counter-increment: l1 0;  }
+ table, tbody {vertical-align: top; overflow: visible; }
+</style></head><body><p class="s1" style="padding-top: 1pt;padding-left: 150pt;text-indent: 0pt;text-align: center;">【坦克王】隐私政策</p><p style="padding-top: 11pt;padding-left: 15pt;text-indent: 0pt;line-height: 177%;text-align: justify;">更新日期：【<span class="h1">2024  </span>】年【 <span class="h1">4</span>】月【 <span class="h1">3 </span>】日生效日期：【<span class="h1">2024  </span>】年【<span class="h1">4  </span>】月【<span class="h1">3  </span>】日</p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;text-align: justify;">欢迎您使用【坦克王】！我们非常重视保护您的个人信息和隐私。您可以通过《【坦克王】隐私政策》了解我们收集、使用、存储用户个人信息的情况，以及您所享有的相关权利。</p><p class="s2" style="padding-top: 6pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">【上海之能文化科技有限公司】（以下简称“<b>我们</b>”）系移动应用程序“【坦克王】”（以下简称“【坦克王】”）的运营者。我们非常重视保护用户（以下简称“<b>您</b>”）的个人信息和隐私。您在使用【坦克王】时，我们会收集、使用、保存、共享您的相关个人信息。为呈现我们处理您个人信息的情况，我们特制定《【坦克王】隐私政策》（以下简称“<b>隐私政策</b>”），我们承诺严格按照本隐私政策处理您的个人信息。</p><p class="s2" style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">我们在此提醒您：</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 122%;text-align: left;">在您使用【坦克王】前，请您务必认真阅读本隐私政策，充分理解各条款内容，包括但不限于免除或限制我们责任的条款。您知晓并确认，您勾选“同意”本隐私政策并使用【坦克王】，就表示您同意我们按照本隐私政策处理您的个人信息。<span class="s2">请您知悉，本政策仅适用于我们通过【</span>坦克王<span class="s2">】向您提供服务所收集的信息，不适用于通过接入【</span>坦克王<span class="s2">】以向您提供产品或服务的第三方所收集的信息。</span></p><p class="s2" style="padding-top: 5pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">请您仔细阅读并充分理解相关内容：</p><ol id="l1"><li data-list-text="1."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">为向您提供游戏服务，我们将依据《【<b>坦克王</b>】隐私政策》收集、使用、存储必要的信息。</p></li><li data-list-text="2."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">基于您的明示授权，我们可能会申请开启您的设备权限，您有权拒绝或取消授权。</p></li><li data-list-text="3."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">您可以访问、更正、删除您的个人信息，还可以撤回授权同意、注销账号、投诉举报以及调整其他隐私设置。</p></li><li data-list-text="4."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">我们已采取符合业界标准的安全防护措施保护您的个人信息。</p></li><li data-list-text="5."><p style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">如您是未成年人，请您和您的监护人仔细阅读本隐私政策，并在征得您的监护人授权同意的前提下使用我们的服务或向我们提供个人信息。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">本隐私政策将帮助您了解以下内容：</p><p style="padding-top: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 202%;text-align: left;">一、 我们如何收集和使用您的个人信息二、 我们如何保存您的个人信息</p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 15pt;text-align: left;">三、 我们如何使用 <span class="h1">Cookies</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 202%;text-align: left;">四、 我们如何共享、转让、公开披露您的个人信息五、 第三方产品或服务如何获得您的个人信息</p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 202%;text-align: left;">六、 我们如何保护您的个人信息七、 您如何管理您的个人信息</p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 202%;text-align: left;">八、 我们如何处理未成年人的个人信息九、 本隐私政策如何更新</p><p style="padding-left: 15pt;text-indent: 0pt;line-height: 15pt;text-align: left;">十、 如何联系我们</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">一、 我们如何收集和使用您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">（一）我们如何收集您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;text-align: left;">在您使用【<b>坦克王</b>】过程中，我们会按照如下方式收集您的个人信息：</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l2"><li data-list-text="1."><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">完成注册</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 151%;text-align: left;">当您使用【坦克王】服务时，我们会为您自动分配并收集相应的账户信息。我们收集您的上述信息是为了帮助您完成【坦克王】账户的注册，保护您的账户安全。</p></li><li data-list-text="2."><p style="padding-top: 8pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">游戏服务</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">当您使用游戏服务时，我们需要收集您使用的 <span class="s3">IMEI</span>、<span class="s3">IMSI</span>、<span class="s3">android ID</span>、<span class="s3">OAID</span>、设备标识、设备 <span class="s3">MAC </span>地址、设备序列号、软件列表，以及手机型号、手机系统版本号、系统编号、系统 <span class="s3">ID </span>号、屏幕分辨率、上网类型、手机中软件的名称、版本号、版本名、包名、软件使用时间和频率、软件崩溃信息、设备和软件相关的信息、软件安装列表信息。我们收集您的上述信息是为了保障您正常使用我们的服务，维护游戏基础功能的正常运行，优化游戏产品性能，提升您的游戏体验。</p></li><li data-list-text="3."><p style="padding-top: 3pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">实名认证</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">当您进行实名认证时，我们需要收集您的姓名、身份证件类型、身份证件号码。同时，为实现实名认证的目的，您同意并授权我们自行或委托第三方向有关实名认证机构（如个人征信机构、政府部门等）提供、查询、核对您的前述身份信息。我们收集您的上述信息是为了履行法定义务，核验用户真实身份、识别用户年龄以及保障系统和服务安全。如您不提供这类信息，您将在使用【坦克王】过程中受到相应限制。</p></li><li data-list-text="4."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">保障网络和服务的安全</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">为了保障网络和游戏服务的安全性，我们可能会收集 <span class="s3">IMEI</span>、<span class="s3">IMSI</span>、<span class="s3">android ID</span>、 <span class="s3">OAID</span>、设备标识、设备 <span class="s3">MAC </span>地址、设备序列号、软件列表，以及手机型号、手机系统版本号、系统编号、系统 <span class="s3">ID </span>号、屏幕分辨率、上网类型、手机中软件的名称、版本号、包名、软件安装列表、软件使用时间和频率、软件崩溃日志、 <span class="s3">IP </span>地址、总体安装使用情况、性能数据以及应用程序的来源之信息。我们收集您的上述信息以营造公平、健康及安全的游戏环境，以打击破坏游戏公平环境或干扰、破坏游戏服务正常进行的行为（如用于检测盗版、扫描外挂、防止作弊等）。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">（二）设备权限调用情况</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-bottom: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">在您使用【坦克王】过程中，我们需要在必要范围内向您申请获取设备权限。<b>请您知悉，我们不会默认开启您设备的权限，仅在您主动确认开启的情况下，【坦克王】才有可能通过设备权限收集您的信息。</b>【坦克王】调用的权限、调用权限的目的，以及调用权限前向您询问的情况请见下表：</p><table style="border-collapse:collapse;margin-left:5.415pt" cellspacing="0"><tr style="height:27pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s4" style="padding-top: 6pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">设备权限</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s4" style="padding-top: 6pt;padding-right: 45pt;text-indent: 0pt;text-align: right;">调用权限的目的</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s4" style="padding-top: 6pt;padding-left: 33pt;padding-right: 32pt;text-indent: 0pt;text-align: center;">是否询问</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s4" style="padding-top: 6pt;padding-left: 4pt;padding-right: 3pt;text-indent: 0pt;text-align: center;">用户可否关闭权限</p></td></tr><tr style="height:27pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">网络</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-right: 50pt;text-indent: 0pt;text-align: right;">连接网络</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">可</p></td></tr><tr style="height:27pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">麦克风</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-right: 50pt;text-indent: 0pt;text-align: right;">语音连麦</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">可</p></td></tr><tr style="height:42pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="padding-left: 7pt;padding-right: 7pt;text-indent: 0pt;text-align: center;">电话</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 50pt;padding-right: 3pt;text-indent: -23pt;line-height: 122%;text-align: left;">读取设备通话状态和识别码，保障运营安全</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="text-indent: 0pt;text-align: center;">可</p></td></tr></table><table style="border-collapse:collapse;margin-left:5.415pt" cellspacing="0"><tr style="height:27pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-right: 18pt;text-indent: 0pt;text-align: right;">存储</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 40pt;padding-right: 19pt;text-indent: 0pt;text-align: center;">下载并保存内容</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">可</p></td></tr><tr style="height:27pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-right: 18pt;text-indent: 0pt;text-align: right;">相机</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 40pt;padding-right: 19pt;text-indent: 0pt;text-align: center;">拍摄后发送图片或视频</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;text-indent: 0pt;text-align: center;">可</p></td></tr><tr style="height:42pt"><td style="width:58pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="padding-right: 18pt;text-indent: 0pt;text-align: right;">定位</p></td><td style="width:161pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p class="s5" style="padding-top: 6pt;padding-left: 30pt;padding-right: 10pt;text-indent: 0pt;line-height: 122%;text-align: left;">让您与附近的朋友进行信息交互、指引您位置移动</p></td><td style="width:109pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="text-indent: 0pt;text-align: center;">是</p></td><td style="width:90pt;border-top-style:solid;border-top-width:1pt;border-top-color:#DDDDDD;border-left-style:solid;border-left-width:1pt;border-left-color:#DDDDDD;border-bottom-style:solid;border-bottom-width:1pt;border-bottom-color:#DDDDDD;border-right-style:solid;border-right-width:1pt;border-right-color:#DDDDDD"><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s5" style="text-indent: 0pt;text-align: center;">可</p></td></tr></table><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-top: 3pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">如您在首次授权开启权限后希望关闭权限，您可以在设备的设置功能中选择关闭权限，从而拒绝我们收集相应的个人信息。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">（三）我们如何使用您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l3"><li data-list-text="1."><p class="s2" style="padding-left: 36pt;text-indent: -21pt;text-align: justify;">我们会根据本政策的约定并为实现我们的服务的目的对所收集的个人信息进行使用。</p></li><li data-list-text="2."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">请您注意，<b>您在使用我们提供的服务时所提供的所有个人信息，除非您删除或通过系统设置拒绝我们收集，否则将在您使用我们的服务期间持续授权我们使用</b>。在您注销账号时，我们将停止使用并删除您的个人信息。</p></li><li data-list-text="3."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">我们会对我们提供的服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息，以用于产品开发、服务优化、安全保障的目的。但这些统计信息不包含您的任何身份识别信息。</p></li><li data-list-text="4."><p style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">当我们要将您的个人信息用于本政策未载明的其它用途时，或基于特定目的收集而来的信息用于其他目的时，会通过您主动做出勾选的形式事先征求您的同意。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">（四）其他规则</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 151%;text-align: left;">根据相关法律法规及国家标准，以下情形中，我们可能会收集、使用您的相关个人信息而无需征求您的授权同意：</p><ol id="l4"><li data-list-text="(1)"><p style="padding-top: 3pt;padding-left: 57pt;text-indent: -21pt;text-align: left;">与我们履行法律法规规定的义务相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(2)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与国家安全、国防安全直接相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(3)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与公共安全、公共卫生、重大公共利益直接相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(4)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与刑事侦查、起诉、审批和判决执行等直接相关的；</p></li><li data-list-text="(5)"><p style="padding-top: 3pt;padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: left;">出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；</p></li><li data-list-text="(6)"><p style="padding-top: 7pt;padding-left: 57pt;text-indent: -21pt;text-align: justify;">所涉及的个人信息是个人信息主体或监护人自行向社会公众公开的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(7)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: justify;">根据个人信息主体要求签订和履行合同所必需的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(8)"><p style="padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: left;">从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；</p></li><li data-list-text="(9)"><p style="padding-top: 7pt;padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: left;">维护所提供产品或服务的安全稳定运行所必需的，如发现、处置产品或服务的故障。</p></li></ol></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">二、 我们如何保存您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l5"><li data-list-text="1."><p class="s2" style="padding-left: 36pt;text-indent: -21pt;text-align: justify;">我们将在本政策载明的目的所需及法律法规要求的最短保存期限之内，保存您的个人信息。前述期限届满后，我们将对您的个人信息做删除或匿名化处理。</p></li><li data-list-text="2."><p class="s2" style="padding-top: 6pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">我们在中国境内运营过程中收集和产生的个人信息将保存在中国境内（为本隐私政策之目的，“中国境内”不含中国港澳台地区），以下情形除外：</p><ol id="l6"><li data-list-text="(1)"><p style="padding-top: 6pt;padding-left: 57pt;text-indent: -21pt;text-align: justify;">法律有明确规定；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(2)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: justify;">获得您的明确授权；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(3)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: justify;">您要求获取境外服务等个人主动行为。</p></li></ol></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 39pt;text-indent: 0pt;text-align: left;">针对以上情形，我们会确保依据本隐私政策以及相关法律规定对您的个人信息提供足够的保护。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">三、 我们如何使用 <span class="h1">Cookies </span>和同类技术</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l7"><li data-list-text="1."><p class="s2" style="padding-left: 36pt;text-indent: -28pt;line-height: 152%;text-align: justify;">通过使用 <span class="s3">Cookies</span>，我们向用户提供安全且具个性化的服务体验。我们和第三方合作伙伴会在您的计算机或移动设备上存储 <span class="s3">Cookies</span>、<span class="s3">Flash Cookies</span>，或浏览器（或关联应用程序）提供的其他通常包含标识符、站点名称以及一些号码和字符的本地存储（以上合称“<span class="s3">Cookies</span>”）。我们和我们的第三方合作伙伴可能通过 <span class="s3">Cookies </span>收集您的信息，并将信息用于以下用途：</p><ol id="l8"><li data-list-text="（1）"><p class="s2" style="padding-top: 3pt;padding-left: 69pt;text-indent: -34pt;line-height: 152%;text-align: justify;">安全类 <span class="s3">Cookies</span>：<span class="s3">Cookies </span>可帮助我们保障产品和服务的安全和高效运转。</p></li><li data-list-text="（2）"><p class="s2" style="padding-top: 7pt;padding-left: 69pt;text-indent: -34pt;line-height: 152%;text-align: justify;">推荐类 <span class="s3">Cookies</span>：<span class="s3">Cookies </span>可帮助我们为您推荐、展示、推送您可能感兴趣的内容。</p></li></ol></li><li data-list-text="2."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -28pt;line-height: 152%;text-align: justify;">第三方合作伙伴通过 <span class="h1">Cookies </span>收集和使用您的信息不受本政策约束，而是受到其自身的信息保护声明约束，我们不对第三方的 <span class="h1">Cookies </span>或同类技术承担责任。</p></li><li data-list-text="3."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -28pt;line-height: 152%;text-align: justify;">如果您的浏览器或浏览器附加服务允许，您可修改对 <span class="h1">Cookies </span>的接受程度或拒绝我们的 <span class="h1">Cookies</span>。有关详情，请参见 <a href="http://www.aboutcookies.org/" class="a" target="_blank">https://</a><span class="h1">www.aboutcookies.org/</span>。但如果您这么做，在某些情况下可能会影响您安全使用我们的产品或服务。同时，您仍然将收到商品或服务信息，只是这些商品或服务信息与您的相关性会降低。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: justify;">四、 我们如何共享、转让、公开披露您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l9"><li data-list-text="1."><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">委托处理</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">我们会委托第三方服务提供商处理我们所收集的您的个人信息，以便其为我们提供基础设施技术、数据分析、广告投放、营销决策等产品或技术支持。上述委托处理行为受本政策中所声明目的约束，并且我们会以合同的方式对上述受托的第三方服务提供商进行监督。</p></li><li data-list-text="2."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">共享</p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l10"><li data-list-text="(1)"><p style="padding-left: 57pt;text-indent: -21pt;line-height: 151%;text-align: left;">事先获得您明确的同意或授权，或您要求我们通过电子邮件或其他方式与第三方共享您的个人信息；</p></li><li data-list-text="(2)"><p style="padding-top: 8pt;padding-left: 57pt;text-indent: -21pt;text-align: left;">根据适用的法律法规规定，或按照政府主管部门的强制性要求进行提供；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(3)"><p style="padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: left;">与我们的关联公司共享：我们可能会与我们的关联公司共享您的个人信息；但是我们只会共享必要的个人信息，且受本政策中所声明目的的约</p><p style="padding-top: 2pt;padding-left: 57pt;text-indent: 0pt;line-height: 152%;text-align: left;">束；关联公司也将依据本政策采取同等的安全保障措施来保障您的个人信息安全；</p></li><li data-list-text="(4)"><p style="padding-top: 7pt;padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: justify;">与我们的业务合作伙伴共享。仅为实现外部处理的目的，我们可能会与第三方合作伙伴（第三方服务供应商、承包商、代理、广告合作伙伴、应用开发者等，例如，代表我们发出电子邮件或推送通知的通讯服务提供商）共享您的个人信息，让他们按照我们的说明、隐私政策以及其他相关的保密和安全措施来为我们处理上述信息。</p></li></ol></li><li data-list-text="3."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">转让</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">我们不会将您的个人信息转让给任何公司、组织和个人，<b>但在涉及合并、收购、资产转让或破产清算时，如涉及到个人信息转让，我们会向您告知有关情况，并要求新的持有您个人信息的公司、组织继续受本政策的约束，否则我们将要求该公司、组织重新取得您的授权同意。</b></p></li><li data-list-text="4."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">公开披露</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">除非本合同另有约定或法律明确规定，我们不会公开披露您的个人信息。</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="5."><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">例外情况</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">另外，根据相关法律及国家标准，以下情形中，我们可能会共享、转让、公开披露个人信息无需事先征得您的授权同意：</p><ol id="l11"><li data-list-text="(1)"><p style="padding-top: 7pt;padding-left: 57pt;text-indent: -21pt;text-align: left;">与我们履行法律法规规定的义务相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(2)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与国家安全、国防安全直接相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(3)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与公共安全、公共卫生、重大公共利益直接相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(4)"><p style="padding-left: 57pt;text-indent: -21pt;text-align: left;">与刑事侦查、起诉、审判和判决执行等直接相关的；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(5)"><p style="padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: justify;">出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人授权同意的；</p></li><li data-list-text="(6)"><p style="padding-top: 7pt;padding-left: 57pt;text-indent: -21pt;text-align: left;">个人信息主体或监护人自行向社会公众公开的个人信息；</p></li><li data-list-text="(7)"><p style="padding-top: 3pt;padding-left: 57pt;text-indent: -21pt;line-height: 152%;text-align: justify;">从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道。</p></li></ol></li><li data-list-text="6."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: justify;">请注意，您在使用我们服务时自愿共享甚至公开分享的信息，可能会涉及您或他人的个人信息甚至个人敏感信息。请您谨慎共享或公开，如所涉信息包含他人个人信息，请您在共享或公开前取得他人同意。</p></li><li data-list-text="7."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: left;">请知悉，根据法律规定，若我们采取技术措施和其他必要措施处理个人信息，使得数据接收方无法重新识别特定个人且不能复原，经上述处理后的数据的共享、转让、公开披露无需另行向您通知并征得您的同意。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: justify;">五、 第三方产品或服务如何获得您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-bottom: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">为了向您提供更丰富和完整的功能，我们会使用下述第三方软件开发工具包（简称“<span class="s3">SDK</span>”）为您提供服务。<span class="s3">SDK </span>的具体信息收集和使用情况请以 <span class="s3">SDK </span>运营方的隐私政策或相关声明为准。</p><table style="border-collapse:collapse;margin-left:9.61pt" cellspacing="0"><tr style="height:53pt"><td style="width:37pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">SDK</p><p class="s7" style="padding-top: 6pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">名称</p></td><td style="width:69pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 151%;text-align: left;">SDK <span class="s7">提 供方名称</span></p></td><td style="width:71pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 151%;text-align: left;">SDK <span class="s7">使 用目的</span></p></td><td style="width:213pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">SDK <span class="s7">收集的信息</span></p></td><td style="width:49pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 151%;text-align: left;">隐私政策链接</p></td></tr><tr style="height:131pt"><td style="width:37pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">233</p><p class="s7" style="padding-top: 7pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">广告</p><p class="s6" style="padding-top: 7pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">SDK</p></td><td style="width:69pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 151%;text-align: justify;">北 京 龙 威互 动 科 技有限公司</p></td><td style="width:71pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 151%;text-align: left;">提供及加载第三方广告</p></td><td style="width:213pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 152%;text-align: justify;">可能会收集包含 <span class="s6">IMEI</span>、<span class="s6">IMSI</span>、<span class="s6">android ID</span>、<span class="s6">OAID</span>、设备标识、设备 <span class="s6">MAC </span>地址、设备序列号，以及手机型号、手机系统版本号、系统编号、系统 <span class="s6">ID </span>号、屏幕分辨率、上网类型等信息。</p></td><td style="width:49pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s10" style="padding-top: 3pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 150%;text-align: left;">https://<span class="s9"> </span>www.2<span class="s9"> </span>33leyua<span class="s9"> </span>n.com/<span class="s9"> </span>policy.h<span class="s9"> </span>tml</p></td></tr><tr style="height:22pt"><td style="width:37pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">233</p></td><td style="width:69pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">北 京 龙 威</p></td><td style="width:71pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">给用户提供</p></td><td style="width:213pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">手机号，网络身份识别信息<span class="s6">(</span>头像、昵</p></td><td style="width:49pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt" rowspan="5"><p class="s10" style="padding-top: 2pt;padding-left: 5pt;padding-right: 4pt;text-indent: 0pt;line-height: 150%;text-align: left;">https://<span class="s9"> </span>www.2<span class="s9"> </span>33leyua<span class="s9"> </span>n.com/<span class="s9"> </span>policy.h<span class="s9"> </span>tml</p></td></tr><tr style="height:23pt"><td style="width:37pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 1pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">乐园</p></td><td style="width:69pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">互 动 科 技</p></td><td style="width:71pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">登录支付服</p></td><td style="width:213pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">称<span class="s6">)</span>，用户自主填写的信息（性别、出</p></td></tr><tr style="height:22pt"><td style="width:37pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 1pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">内购</p></td><td style="width:69pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">有限公司</p></td><td style="width:71pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">务</p></td><td style="width:213pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 4pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">生日期、所在地、个性签名、年龄范围</p></td></tr><tr style="height:26pt"><td style="width:37pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s6" style="padding-top: 2pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">SDK</p></td><td style="width:69pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:71pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:213pt;border-left-style:solid;border-left-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 5pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">等<span class="s6">)</span>、支付时间、支付金额、支付渠道</p></td></tr><tr style="height:37pt"><td style="width:37pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:69pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:71pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:213pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p class="s7" style="padding-top: 3pt;padding-left: 5pt;text-indent: 0pt;text-align: left;">等支付信息。</p></td></tr></table><table style="border-collapse:collapse;margin-left:9.61pt" cellspacing="0"><tr style="height:27pt"><td style="width:37pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:69pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:71pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:213pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td><td style="width:49pt;border-top-style:solid;border-top-width:1pt;border-left-style:solid;border-left-width:1pt;border-bottom-style:solid;border-bottom-width:1pt;border-right-style:solid;border-right-width:1pt"><p style="text-indent: 0pt;text-align: left;"><br/></p></td></tr></table><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-top: 3pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">六、 我们如何保护您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;text-align: left;">我们非常重视个人信息安全，并采取一切合理可行的措施，保护您的个人信息：</p><ol id="l12"><li data-list-text="1."><p class="s2" style="padding-top: 9pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: left;">我们采取了行业通行的数据保护技术与管理措施，例如网络隔离、数据加密、员工访问控制等措施，以防止其遭到未经授权的访问、披露、篡改、丢失或毁坏。</p></li><li data-list-text="2."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: justify;">请您知悉，虽然我们将尽力确保或担保您发送给我们的任何信息的安全性，但互联网环境并非百分之百安全，我们亦不对由此产生或与之相关的任何风险、损失承担责任。</p></li><li data-list-text="3."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: left;">在不幸发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以应用程序推送、电子邮件、短信、电话等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">七、 您如何管理您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">在您使用【坦克王】期间，您可以通过相应页面提示或本隐私政策载明的方式联系我们，以访问、更正、删除您的个人信息，以及行使改变授权同意的范围与注销账号的权利，您的意见会及时得到处理。</p><ol id="l13"><li data-list-text="1."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">访问及更正您的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 122%;text-align: left;">如您希望访问或更正您的个人信息，您可以根据页面提示进行相应操作，或您通过本隐私政策载明的方式与我们联系，我们将及时响应您的请求。</p></li><li data-list-text="2."><p style="padding-top: 5pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">删除您的个人信息</p><p class="s2" style="padding-top: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">在以下情形中，您可以通过本隐私政策载明的方式向我们提出删除个人信息的请求：</p><ol id="l14"><li data-list-text="(1)"><p style="padding-top: 3pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">我们违反法律、行政法规或与您的约定收集、使用个人信息；</p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(2)"><p style="padding-left: 36pt;text-indent: -21pt;line-height: 151%;text-align: left;">我们违反法律、行政法规或与您的约定与第三方共享或转让您的个人信息，我们将立即停止共享、转让行为，并通知第三方及时删除；</p></li><li data-list-text="(3)"><p style="padding-top: 8pt;padding-left: 36pt;text-indent: -21pt;line-height: 151%;text-align: left;">我们违反法律、行政法规规定或与您的约定，公开披露您的个人信息，我们将立即停止公开披露的行为，并发布通知要求相关接收方删除相应的信息；</p></li><li data-list-text="(4)"><p style="padding-top: 8pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">您不再使用我们的产品或服务，或您注销了账号，或我们终止服务及运营。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="3."><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">改变您授权同意的范围</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">您可以通过设备权限设置或本隐私政策载明的方式与我们联系，以改变同意范围或撤回您的授权。</p><p class="s2" style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">请您理解，【坦克王】可能需要开启部分权限并收集必要的个人信息才能得以实现。当您撤回您的同意时，我们将无法继续为您提供撤回同意所对应的服务，但不会影响此前基于您的授权而开展的个人信息处理服务。</p></li><li data-list-text="4."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">注销账户</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">如果您希望注销您的账户，您可以根据页面提示进行相应操作，或根据本隐私政策载明的方式与我们联系，我们将及时响应您的请求。</p><p style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">您注销上述账户的行为是不可逆的，我们将停止为您提供产品或服务，不再收集您的个人信息，并依据您的要求删除与您账户相关的个人信息或做匿名化处理。</p></li><li data-list-text="5."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: justify;">响应您的上述请求</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">如您无法按照上述方式行使权利的，您可以采取本隐私政策载明的联系方式与我们联系。为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。</p><p style="padding-top: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段、给他人合法权益带来风险或者非常不切实际的请求，我们可能会予以拒绝。</p></li><li data-list-text="6."><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">响应情形的例外</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;text-align: left;">在以下情形中，我们将无法响应您的请求<span class="s3">:</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p><ol id="l15"><li data-list-text="(1)"><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">与我们履行法律法规规定的义务相关的<span class="h1">;</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(2)"><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">与国家安全、国防安全直接相关的<span class="h1">;</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(3)"><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">与公共安全、公共卫生、重大公共利益直接相关的<span class="h1">;</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(4)"><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">与刑事侦查、起诉、审判和执行判决等直接相关的<span class="h1">;</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(5)"><p style="padding-left: 36pt;text-indent: -21pt;text-align: left;">我们有充分证据表明个人信息主体存在主观恶意或滥用权利的<span class="h1">;</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p></li><li data-list-text="(6)"><p style="padding-left: 36pt;text-indent: -21pt;line-height: 151%;text-align: left;">出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的<span class="h1">;</span></p></li><li data-list-text="(7)"><p style="padding-top: 8pt;padding-left: 36pt;text-indent: -21pt;line-height: 152%;text-align: left;">响应个人信息主体的请求将导致个人信息主体或其他个人、组织的合法权益受到严重损害的<span class="h1">;</span></p></li><li data-list-text="(8)"><p style="padding-top: 7pt;padding-left: 36pt;text-indent: -21pt;text-align: left;">涉及商业秘密的。</p></li></ol><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-top: 10pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">八、 我们如何处理未成年人的个人信息</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 151%;text-align: justify;">我们非常重视对未成年人个人信息的保护。根据相关法律法规的规定，收集、使用未满 <span class="s3">14 </span>周岁的未成年人的个人信息，需由监护人授权同意；收集、使用已满</p><p class="s3" style="padding-left: 15pt;text-indent: 0pt;text-align: justify;">14 <span class="s2">周岁未满 </span>18 <span class="s2">周岁的未成年人个人信息，可由监护人授权同意或自行授权同意。</span></p><p style="padding-top: 10pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">如您为未成年人（尤其是不满 <span class="h1">14 </span>周岁的未成年人），我们要求您请您的父母或其他监护人仔细阅读本隐私政策，并在征得您的监护人授权同意的前提下使用我们的服务或向我们提供信息。</p><p style="padding-top: 2pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">如您是未成年人的监护人，请您关注您所监护的未成年人是否是在您授权同意</p><p style="padding-top: 2pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">之后使用我们的产品或服务。如果您对您所监护的未成年人的个人信息有疑问，请通过本隐私政策载明的方式与我们联系。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">九、 本隐私政策如何更新</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">我们的隐私政策可能会适时发生变更。我们会在本页面上发布对本隐私政策所做的任何变更。对于重大变更，我们还会提供更为显著的通知（我们可能会通过在浏览页面做特别提示等方式，说明隐私政策的具体变更内容）。<b>未经您明确同意，我们不会削减您按照本隐私政策所应享有的权利。</b></p><p class="s2" style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">本隐私政策所指的重大变更包括但不限于：我们的服务模式发生重大变化；个人信息共享、转让或公开披露的主要对象发生变化；您参与个人信息处理方面的权利及其行使方式发生重大变化；我们的联系方式及投诉渠道发生变化；个人信息安全影响评估报告表明存在高风险时。</p><p class="s2" style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;text-align: left;">我们还会将本隐私政策的旧版本存档，供您查阅。</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p style="padding-left: 15pt;text-indent: 0pt;text-align: left;">十、 如何联系我们</p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: left;">如果您对本政策或个人信息保护有任何问题，您可以通过以下联系方式与我们进行联系：</p><p class="s3" style="padding-top: 7pt;padding-left: 15pt;text-indent: 0pt;text-align: left;"><a href="mailto:2694129617@qq.com" style=" color: black; font-family:仿宋, monospace; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt;" target="_blank">邮箱：【</a>2694129617@qq.com<span class="s2">】</span></p><p style="text-indent: 0pt;text-align: left;"><br/></p><p class="s2" style="padding-left: 15pt;text-indent: 0pt;line-height: 152%;text-align: justify;">一般情况下，我们将在十五个工作日内回复。<b>如果您对我们的回复不满意，特别是我们的个人信息处理行为损害了您的合法权益，您还可以向网信、电信、公安及工商等监管部门进行投诉或举报，或通过向被告住所地有管辖权的法院提起诉讼来寻求解决方案。</b></p></body></html>
